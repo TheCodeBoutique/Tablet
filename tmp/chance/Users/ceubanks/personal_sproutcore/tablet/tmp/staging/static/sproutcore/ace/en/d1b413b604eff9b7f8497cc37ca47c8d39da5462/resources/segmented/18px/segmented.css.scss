@@ -10,21 +10,21 @@ $theme: '.ace.sc-small-size';
   .left {
     width: 8px;
     height: 18px;
-    @extend .__s97_282;
+    @extend .__s98_282;
 -chance-offset: "source/resources/segmented/18px/segmented_normal_100_0_8__0_" 0 0;background-repeat: no-repeat;
   }
   
   .right {
     width: 8px;
     height: 18px;
-    @extend .__s97_283;
+    @extend .__s98_283;
 -chance-offset: "source/resources/segmented/18px/segmented_normal_92_0_8__0_" 0 0;background-repeat: no-repeat;
   }
   
   .middle {
     left: 8px; right: 8px;
     height: 18px;
-    @extend .__s97_284;
+    @extend .__s98_284;
 -chance-offset: "source/resources/segmented/18px/segmented_normal_8_0_1__0_" 0 0;background-repeat: repeat-x;
   }
   
@@ -37,75 +37,75 @@ $theme: '.ace.sc-small-size';
   }
   
   &.sc-first-segment .left {
-    @extend .__s97_285;
+    @extend .__s98_285;
 -chance-offset: "source/resources/segmented/18px/segmented_normal_0_0_8__0_" 0 0;background-repeat: no-repeat;
   }
     
   &.sc-last-segment .right {
-    @extend .__s97_286;
+    @extend .__s98_286;
 -chance-offset: "source/resources/segmented/18px/segmented_normal__0_8__0_0" 0 0;background-repeat: no-repeat;  
   }
   
   
   
   &.active {
-    .left { @extend .__s97_287;
+    .left { @extend .__s98_287;
 -chance-offset: "source/resources/segmented/18px/segmented_active_100_0_8__0_" 0 0;background-repeat: no-repeat; }
-    .right { @extend .__s97_288;
+    .right { @extend .__s98_288;
 -chance-offset: "source/resources/segmented/18px/segmented_active_92_0_8__0_" 0 0;background-repeat: no-repeat; }
-    .middle { @extend .__s97_289;
+    .middle { @extend .__s98_289;
 -chance-offset: "source/resources/segmented/18px/segmented_active_8_0_1__0_" 0 0;background-repeat: repeat-x; }
   }
   
   &.active.sc-first-segment {
-    .left { @extend .__s97_290;
+    .left { @extend .__s98_290;
 -chance-offset: "source/resources/segmented/18px/segmented_active_0_0_8__0_" 0 0;background-repeat: no-repeat; }
   }
   
   &.active.sc-last-segment {
-    .right { @extend .__s97_291;
+    .right { @extend .__s98_291;
 -chance-offset: "source/resources/segmented/18px/segmented_active__0_8__0_0" 0 0;background-repeat: no-repeat; }
   }
   
   
   
   &.sel {
-    .left { @extend .__s97_292;
+    .left { @extend .__s98_292;
 -chance-offset: "source/resources/segmented/18px/segmented_selected_100_0_8__0_" 0 0;background-repeat: no-repeat; }
-    .right { @extend .__s97_293;
+    .right { @extend .__s98_293;
 -chance-offset: "source/resources/segmented/18px/segmented_selected_92_0_8__0_" 0 0;background-repeat: no-repeat; }
-    .middle { @extend .__s97_294;
+    .middle { @extend .__s98_294;
 -chance-offset: "source/resources/segmented/18px/segmented_selected_8_0_1__0_" 0 0;background-repeat: repeat-x; }
   }
 
   &.sel.sc-first-segment {
-    .left { @extend .__s97_295;
+    .left { @extend .__s98_295;
 -chance-offset: "source/resources/segmented/18px/segmented_selected_0_0_8__0_" 0 0;background-repeat: no-repeat; }
   }
 
   &.sel.sc-last-segment {
-    .right { @extend .__s97_296;
+    .right { @extend .__s98_296;
 -chance-offset: "source/resources/segmented/18px/segmented_selected__0_8__0_0" 0 0;background-repeat: no-repeat; }
   }
   
   
   
   &.sel.active {
-    .left { @extend .__s97_297;
+    .left { @extend .__s98_297;
 -chance-offset: "source/resources/segmented/18px/segmented_selected_active_100_0_8__0_" 0 0;background-repeat: no-repeat; }
-    .right { @extend .__s97_298;
+    .right { @extend .__s98_298;
 -chance-offset: "source/resources/segmented/18px/segmented_selected_active_92_0_8__0_" 0 0;background-repeat: no-repeat; }
-    .middle { @extend .__s97_299;
+    .middle { @extend .__s98_299;
 -chance-offset: "source/resources/segmented/18px/segmented_selected_active_8_0_1__0_" 0 0;background-repeat: repeat-x; }
   }
 
   &.sel.active.sc-first-segment {
-    .left { @extend .__s97_300;
+    .left { @extend .__s98_300;
 -chance-offset: "source/resources/segmented/18px/segmented_selected_active_0_0_8__0_" 0 0;background-repeat: no-repeat; }
   }
 
   &.sel.active.sc-last-segment {
-    .right { @extend .__s97_301;
+    .right { @extend .__s98_301;
 -chance-offset: "source/resources/segmented/18px/segmented_selected_active__0_8__0_0" 0 0;background-repeat: no-repeat; }
   }
 

@@ -21,7 +21,7 @@ Tablet.motionController = SC.ObjectController.create({
     var isPort = this.get('isInPortrait');
 
     if (or === 'landscape') {
-      Tablet.mainPage.mainPane.splitView.rightPanel.testButton.animate('left', 220, {
+      Tablet.mainPage.mainPane.rightPanel.popoverButton.animate('left', 260, {
         duration: '.1',
         timing: 'ease-in-out'
       });
@@ -29,13 +29,13 @@ Tablet.motionController = SC.ObjectController.create({
     } else if (or === 'portrait') {
       console.log('animation port firing..');
       isPort = true;
-      Tablet.mainPage.mainPane.splitView.rightPanel.testButton.animate('left', 0, {
+      Tablet.mainPage.mainPane.rightPanel.popoverButton.animate('left', 0, {
         duration: '.1',
         timing: 'ease-in-out'
       });
 
     } else if (isPort === true) {
-      Tablet.mainPage.mainPane.splitView.rightPanel.testButton.animate('left', 0, {
+      Tablet.mainPage.mainPane.rightPanel.popoverButton.animate('left', 0, {
         duration: '.1',
         timing: 'ease-in-out'
       });

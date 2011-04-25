@@ -5,7 +5,7 @@
  - use "pointer" cursor unless otherwise required 
  - clip overflow
 */
-/* line 10, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
+/* line 10, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
 .sc-view {
   cursor: default;
   overflow: hidden;
@@ -17,7 +17,7 @@
   margin: 0px;
 }
 
-/* line 21, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
+/* line 21, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
 .sc-view.allow-select {
   -moz-user-select: text;
   -khtml-user-select: text;
@@ -25,34 +25,34 @@
   cursor: text;
 }
 
-/* line 30, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
+/* line 30, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
 .sc-view:focus, a.sc-view:focus,
 .sc-view:active, a.sc-view:active {
   outline: none;
 }
 
-/* line 35, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
+/* line 35, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
 .sc-view img {
   border: none;
 }
 
-/* line 39, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
+/* line 39, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
 .sc-hidden {
   display: none !important;
 }
 
-/* line 45, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
+/* line 45, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
 .sc-view.text-align-right,
 .sc-view.textAlignRight {
   text-align: right;
 }
 
-/* line 50, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
+/* line 50, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/view.css.scss */
 .mobile-safari .sc-pane {
   -webkit-transform: translate3d(0, 0, 0);
 }
 
-/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view {
   font-family: "Lucida Sans", "Lucida Grande", Verdana, Arial, sans-serif;
   font-size: 12px;
@@ -61,12 +61,12 @@
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-/* line 11, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 11, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 div.sc-view {
   border: 0 solid transparent;
 }
 
-/* line 15, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 15, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .ellipsis {
   white-space: nowrap;
   overflow: hidden;
@@ -75,7 +75,7 @@ div.sc-view {
   -ms-text-overflow: ellipsis;
 }
 
-/* line 25, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 25, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 body {
   position: absolute;
   margin: 0px;
@@ -85,7 +85,7 @@ body {
   right: 0px;
 }
 
-/* line 59, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 59, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view body,
 .sc-view div,
 .sc-view dl,
@@ -116,19 +116,19 @@ body {
   padding: 0;
 }
 
-/* line 64, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 64, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 70, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 70, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view fieldset,
 .sc-view img {
   border: 0;
 }
 
-/* line 83, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 83, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view address,
 .sc-view caption,
 .sc-view cite,
@@ -143,24 +143,24 @@ body {
   font-weight: inherit;
 }
 
-/* line 89, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 89, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view del,
 .sc-view ins {
   text-decoration: none;
 }
 
-/* line 93, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 93, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view li {
   list-style: none;
 }
 
-/* line 98, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 98, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view caption,
 .sc-view th {
   text-align: left;
 }
 
-/* line 107, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 107, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view h1,
 .sc-view h2,
 .sc-view h3,
@@ -171,35 +171,35 @@ body {
   font-weight: normal;
 }
 
-/* line 113, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 113, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view q:before,
 .sc-view q:after {
   content: '';
 }
 
-/* line 118, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 118, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view abbr,
 .sc-view acronym {
   border: 0;
   font-variant: normal;
 }
 
-/* line 123, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 123, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view sup {
   vertical-align: baseline;
 }
 
-/* line 127, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 127, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view sub {
   vertical-align: baseline;
 }
 
-/* line 132, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 132, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view legend {
   color: #000;
 }
 
-/* line 141, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 141, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view input,
 .sc-view button,
 .sc-view textarea,
@@ -212,7 +212,7 @@ body {
   font-weight: inherit;
 }
 
-/* line 153, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 153, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view input,
 .sc-view button,
 .sc-view textarea,
@@ -220,7 +220,7 @@ body {
   font-size: 100%;
 }
 
-/* line 169, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 169, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view body {
   font: 13px/1.231 "Lucida Sans", "Lucida Grande", Verdana, Arial, sans-serif;
   /* for IE6/7 */
@@ -229,7 +229,7 @@ body {
   *font: x-small;
 }
 
-/* line 181, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 181, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view select,
 .sc-view input,
 .sc-view textarea,
@@ -237,13 +237,13 @@ body {
   font: 99% "Lucida Sans", "Lucida Grande", Verdana, Arial, sans-serif;
 }
 
-/* line 186, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 186, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view table {
   font-size: inherit;
   font: 100%;
 }
 
-/* line 196, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 196, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view pre,
 .sc-view code,
 .sc-view kbd,
@@ -254,34 +254,34 @@ body {
   line-height: 100%;
 }
 
-/* line 210, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 210, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view body {
   margin: 10px;
 }
 
-/* line 215, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 215, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view h1 {
   font-size: 138.5%;
 }
 
-/* line 220, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 220, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view h2 {
   font-size: 123.1%;
 }
 
-/* line 225, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 225, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view h3 {
   font-size: 108%;
 }
 
-/* line 232, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 232, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view h1,
 .sc-view h2,
 .sc-view h3 {
   margin: 0em 0;
 }
 
-/* line 244, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 244, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view h1,
 .sc-view h2,
 .sc-view h3,
@@ -293,29 +293,29 @@ body {
   font-weight: bold;
 }
 
-/* line 248, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 248, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view optgroup {
   font-weight: normal;
 }
 
-/* line 253, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 253, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view abbr,
 .sc-view acronym {
   border-bottom: 1px dotted #000;
   cursor: help;
 }
 
-/* line 259, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 259, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view em {
   font-style: italic;
 }
 
-/* line 264, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 264, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view del {
   text-decoration: line-through;
 }
 
-/* line 272, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 272, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view blockquote,
 .sc-view ul,
 .sc-view ol,
@@ -323,44 +323,44 @@ body {
   margin: 1em;
 }
 
-/* line 279, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 279, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view ol,
 .sc-view ul,
 .sc-view dl {
   margin-left: 2em;
 }
 
-/* line 285, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 285, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view th,
 .sc-view td {
   border: 1px solid #000;
   padding: .5em;
 }
 
-/* line 291, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 291, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view th {
   font-weight: bold;
   text-align: center;
 }
 
-/* line 297, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 297, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view caption {
   margin-bottom: .5em;
   /* Centered so it doesn't blend in to other content. */
   text-align: center;
 }
 
-/* line 304, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 304, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view sup {
   vertical-align: super;
 }
 
-/* line 309, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 309, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view sub {
   vertical-align: sub;
 }
 
-/* line 317, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 317, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view p,
 .sc-view fieldset,
 .sc-view table,
@@ -368,7 +368,7 @@ body {
   margin-bottom: 1em;
 }
 
-/* line 326, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
+/* line 326, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/core_foundation/en/current/resources/core.css.scss */
 .sc-view button,
 .sc-view input[type="checkbox"],
 .sc-view input[type="radio"],

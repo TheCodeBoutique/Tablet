@@ -12,7 +12,7 @@ $theme: '.ace.sc-small-size';
       margin-top: -2px;
       
       & > .left {
-@extend .__s74_171;
+@extend .__s75_171;
 -chance-offset: "source/resources/slider/ace/track_0_0_3__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -21,7 +21,7 @@ bottom: 0px;
 width: 3px; 
 }
 & > .middle {
-@extend .__s74_172;
+@extend .__s75_172;
 -chance-offset: "source/resources/slider/ace/track_3_0_1__0_" 0 0;background-repeat: repeat-x;
 position: absolute;
 left: 3px; 
@@ -30,7 +30,7 @@ right: 3px;
 bottom: 0px; 
 }
 & > .right {
-@extend .__s74_173;
+@extend .__s75_173;
 -chance-offset: "source/resources/slider/ace/track__0_3__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -45,12 +45,12 @@ width: 3px;
       display: block; position: absolute;
       width: 14px; height: 16px; top: 50%; margin-top: -7px;
 
-      @extend .__s74_174;
+      @extend .__s75_174;
 -chance-offset: "source/resources/slider/ace/14px/knob_0_0___0_0" 0 0;background-repeat: no-repeat; 
     }
   
     &.active {
-      .sc-handle { @extend .__s74_175;
+      .sc-handle { @extend .__s75_175;
 -chance-offset: "source/resources/slider/ace/14px/knob_active_0_0___0_0" 0 0;background-repeat: no-repeat; }
     }
   

@@ -7,9 +7,8 @@
 // This page describes the main user interface for your application.  
 Tablet.mainPage = SC.Page.design({
 
-  // The main pane is made visible on screen as soon as your app is loaded.
-  // Add childViews to this pane for views to display immediately on page 
-  // load.
+  
+  
   mainPane: SC.MainPane.design({
 		classNames: ['base-view'],
     childViews: 'leftPanel rightPanel'.w(),
@@ -21,7 +20,7 @@ Tablet.mainPage = SC.Page.design({
 			
 			topToolBar: SC.ToolbarView.design({
 				classNames: ['toolbar'],
-				layout: { top: 0, left: 0, right: 0, height: 34 },
+				layout: { top: 0, left: 0, right: 0, height: 46 },
 				anchorLocation: SC.ANCHOR_TOP,
 				childViews: 'toolbarSplit'.w(),
 					
@@ -38,25 +37,64 @@ Tablet.mainPage = SC.Page.design({
 			rightPanel: SC.View.design({
 				classNames: ['right-view'],
 		    autoResizeStyle: SC.RESIZE_AUTOMATIC,
-				childViews: 'topToolBar testButton'.w(),
+				childViews: 'topToolBar popoverButton popOverPane'.w(),
 				
-					testButton: SC.ButtonView.design({
+					popoverButton: SC.ButtonView.design({
 							classNames:['popover-button'],
-						  layout: { top: 50, height: 32, left: 220, width: 85 },
-						  title:  "Test"
-					}), //text button
+						  layout: { top: 50, height: 44, left: 260, width: 42 },
+						  target: "Tablet.statechart",
+    					action: "popoverActive"
+					}),
+					
+					popOverPane: SC.View.design({
+      			classNames:['popover-pane'],
+      			layout: { top: 40, left: 0, width: 335, bottom: 100},
+      			childViews: 'popoverPane listView'.w(),
+
+      				listView: SC.ScrollView.design({
+      			  	hasHorizontalScroller: NO,
+      			    layout: { bottom: 65, left: 20, right: 31, top: 55 },
+      					contentView: SC.ListView.design({
+      			  		//contentValueKey: "name",
+      						//contentBinding: "Genius.appsController.arrangedObjects",
+      						//selectionBinding: "Genius.appsController.selection",
+      			     	rowHeight: 50,
+      						rowSpacing: 2,
+      						//exampleView:Genius.appList,
+      						contentIconKey: "appImage",
+      						hasContentIcon:  YES,
+                	escapeHTML: NO
+      			  	})
+
+      				}),
+
+      				popoverPane: SC.ImageView.design({
+      					layout: { bottom: 0, top: 10, width: 325, height: 500 },
+      					useImageQueue: NO,
+      					value: '/static/touchpad/en/current/source/resources/images/popover.png?1303717160'
+      				})
+
+      		}), 
 				
 					topToolBar: SC.ToolbarView.design({
 						classNames: ['toolbar'],
-					  layout: { top: 0, left: 0, right: 0, height: 34 },
+					  layout: { top: 0, left: 0, right: 0, height: 46 },
 					  anchorLocation: SC.ANCHOR_TOP,
-							childViews: 'popoverButton'.w(),
+							childViews: 'popoverButtonActive popoverButtonDeactive'.w(),
 
-							popoverButton: SC.ButtonView.design({
+							popoverButtonActive: SC.ButtonView.design({
 									classNames:['popover-button'],
-								  layout: { top: 3, height: 30, left: 12, width: 85 },
-								  title:  "Add Task"
-							}) // popover
+								  layout: { top: 1, height: 44, left: 15, width: 42 },
+								  target: "Tablet.statechart",
+        					action: "popoverActive"
+							}), // popoverButtonActive
+							
+							popoverButtonDeactive: SC.ButtonView.design({
+									classNames:['popover-button'],
+								  layout: { top: 1, height: 44, left: -100, width: 42 },
+								  target: "Tablet.statechart",
+        					action: "popoverDeactive"
+							}) // popoverButtonDeactive
 							
 					}) //toolbar
 		  

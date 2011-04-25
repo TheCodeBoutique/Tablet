@@ -12,7 +12,7 @@ $theme: '.ace.sc-jumbo-size';
       margin-top: -3px;
       
       & > .left {
-@extend .__s71_126;
+@extend .__s72_126;
 -chance-offset: "source/resources/slider/ace/22px/track_0_0_3__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -21,7 +21,7 @@ bottom: 0px;
 width: 3px; 
 }
 & > .middle {
-@extend .__s71_127;
+@extend .__s72_127;
 -chance-offset: "source/resources/slider/ace/22px/track_3_0_1__0_" 0 0;background-repeat: repeat-x;
 position: absolute;
 left: 3px; 
@@ -30,7 +30,7 @@ right: 3px;
 bottom: 0px; 
 }
 & > .right {
-@extend .__s71_128;
+@extend .__s72_128;
 -chance-offset: "source/resources/slider/ace/22px/track__0_3__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -45,12 +45,12 @@ width: 3px;
       display: block; position: absolute;
       width: 22px; height: 24px; top: 50%; margin-top: -11px;
 
-      @extend .__s71_129;
+      @extend .__s72_129;
 -chance-offset: "source/resources/slider/ace/22px/knob_0_0___0_0" 0 0;background-repeat: no-repeat; 
     }
   
     &.active {
-      .sc-handle { @extend .__s71_130;
+      .sc-handle { @extend .__s72_130;
 -chance-offset: "source/resources/slider/ace/22px/knob_active_0_0___0_0" 0 0;background-repeat: no-repeat; }
     }
   

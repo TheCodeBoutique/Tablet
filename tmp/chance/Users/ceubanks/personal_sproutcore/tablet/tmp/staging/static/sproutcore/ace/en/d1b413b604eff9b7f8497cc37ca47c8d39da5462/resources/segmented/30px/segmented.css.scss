@@ -10,21 +10,21 @@ $theme: '.ace.sc-large-size';
   .left {
     width: 8px;
     height: 30px;
-    @extend .__s60_1;
+    @extend .__s61_1;
 -chance-offset: "source/resources/segmented/30px/segmented_normal_100_0_8__0_" 0 0;background-repeat: no-repeat;
   }
   
   .right {
     width: 8px;
     height: 30px;
-    @extend .__s60_2;
+    @extend .__s61_2;
 -chance-offset: "source/resources/segmented/30px/segmented_normal_92_0_8__0_" 0 0;background-repeat: no-repeat;
   }
   
   .middle {
     left: 8px; right: 8px;
     height: 30px;
-    @extend .__s60_3;
+    @extend .__s61_3;
 -chance-offset: "source/resources/segmented/30px/segmented_normal_8_0_1__0_" 0 0;background-repeat: repeat-x;
   }
   
@@ -37,75 +37,75 @@ $theme: '.ace.sc-large-size';
   }
   
   &.sc-first-segment .left {
-    @extend .__s60_4;
+    @extend .__s61_4;
 -chance-offset: "source/resources/segmented/30px/segmented_normal_0_0_8__0_" 0 0;background-repeat: no-repeat;
   }
     
   &.sc-last-segment .right {
-    @extend .__s60_5;
+    @extend .__s61_5;
 -chance-offset: "source/resources/segmented/30px/segmented_normal__0_8__0_0" 0 0;background-repeat: no-repeat;  
   }
   
   
   
   &.active {
-    .left { @extend .__s60_6;
+    .left { @extend .__s61_6;
 -chance-offset: "source/resources/segmented/30px/segmented_active_100_0_8__0_" 0 0;background-repeat: no-repeat; }
-    .right { @extend .__s60_7;
+    .right { @extend .__s61_7;
 -chance-offset: "source/resources/segmented/30px/segmented_active_92_0_8__0_" 0 0;background-repeat: no-repeat; }
-    .middle { @extend .__s60_8;
+    .middle { @extend .__s61_8;
 -chance-offset: "source/resources/segmented/30px/segmented_active_8_0_1__0_" 0 0;background-repeat: repeat-x; }
   }
   
   &.active.sc-first-segment {
-    .left { @extend .__s60_9;
+    .left { @extend .__s61_9;
 -chance-offset: "source/resources/segmented/30px/segmented_active_0_0_8__0_" 0 0;background-repeat: no-repeat; }
   }
   
   &.active.sc-last-segment {
-    .right { @extend .__s60_10;
+    .right { @extend .__s61_10;
 -chance-offset: "source/resources/segmented/30px/segmented_active__0_8__0_0" 0 0;background-repeat: no-repeat; }
   }
   
   
   
   &.sel {
-    .left { @extend .__s60_11;
+    .left { @extend .__s61_11;
 -chance-offset: "source/resources/segmented/30px/segmented_selected_100_0_8__0_" 0 0;background-repeat: no-repeat; }
-    .right { @extend .__s60_12;
+    .right { @extend .__s61_12;
 -chance-offset: "source/resources/segmented/30px/segmented_selected_92_0_8__0_" 0 0;background-repeat: no-repeat; }
-    .middle { @extend .__s60_13;
+    .middle { @extend .__s61_13;
 -chance-offset: "source/resources/segmented/30px/segmented_selected_8_0_1__0_" 0 0;background-repeat: repeat-x; }
   }
 
   &.sel.sc-first-segment {
-    .left { @extend .__s60_14;
+    .left { @extend .__s61_14;
 -chance-offset: "source/resources/segmented/30px/segmented_selected_0_0_8__0_" 0 0;background-repeat: no-repeat; }
   }
 
   &.sel.sc-last-segment {
-    .right { @extend .__s60_15;
+    .right { @extend .__s61_15;
 -chance-offset: "source/resources/segmented/30px/segmented_selected__0_8__0_0" 0 0;background-repeat: no-repeat; }
   }
   
   
   
   &.sel.active {
-    .left { @extend .__s60_16;
+    .left { @extend .__s61_16;
 -chance-offset: "source/resources/segmented/30px/segmented_selected_active_100_0_8__0_" 0 0;background-repeat: no-repeat; }
-    .right { @extend .__s60_17;
+    .right { @extend .__s61_17;
 -chance-offset: "source/resources/segmented/30px/segmented_selected_active_92_0_8__0_" 0 0;background-repeat: no-repeat; }
-    .middle { @extend .__s60_18;
+    .middle { @extend .__s61_18;
 -chance-offset: "source/resources/segmented/30px/segmented_selected_active_8_0_1__0_" 0 0;background-repeat: repeat-x; }
   }
 
   &.sel.active.sc-first-segment {
-    .left { @extend .__s60_19;
+    .left { @extend .__s61_19;
 -chance-offset: "source/resources/segmented/30px/segmented_selected_active_0_0_8__0_" 0 0;background-repeat: no-repeat; }
   }
 
   &.sel.active.sc-last-segment {
-    .right { @extend .__s60_20;
+    .right { @extend .__s61_20;
 -chance-offset: "source/resources/segmented/30px/segmented_selected_active__0_8__0_0" 0 0;background-repeat: no-repeat; }
   }
 

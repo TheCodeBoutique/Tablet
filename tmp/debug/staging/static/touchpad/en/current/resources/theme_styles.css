@@ -12,7 +12,7 @@
 
 
 .base-view{
-	background-image: url('/static/touchpad/en/current/source/resources/images/main-bg.png?1285473869');
+	background-image: url('/static/touchpad/en/current/source/resources/images/main-bg.png?1303700447');
 }
 
 .left-view{
@@ -31,12 +31,16 @@
 }
 
 .line{
-	background-image: url('/static/touchpad/en/current/source/resources/images/line.png?1303618237');
+	background-image: url('/static/touchpad/en/current/source/resources/images/line.png?1303700447');
 }
 
 .toolbar{
-	background-image: url('/static/touchpad/en/current/source/resources/images/toolbar.png?1303627133');
+	background-image: url('/static/touchpad/en/current/source/resources/images/toolbar.png?1303703896');
 	z-index: 1;
 	-webkit-box-shadow: 0px 0px 5px rgba(0,0,0,1.0);
 	-moz-box-shadow: 0px 0px 5px rgba(0,0,0,1.0);
+}
+
+.popover-pane{
+  opacity: 0.0; -moz-opacity: 0.0; filter:alpha(opacity=00);
 }

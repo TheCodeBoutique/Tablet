@@ -16,7 +16,7 @@ $theme: '.ace';#{$theme}.radio-group {
   }
   
   .button {
-    @extend .__s95_270;
+    @extend .__s96_270;
 -chance-offset: "source/resources/radio/radio_unselected_0_0___0_0" 0 0;background-repeat: no-repeat;
     width: 16px;
     height:16px;
@@ -28,27 +28,27 @@ $theme: '.ace';#{$theme}.radio-group {
   }
   
   &.active .button {
-    @extend .__s95_271;
+    @extend .__s96_271;
 -chance-offset: "source/resources/radio/radio_active_0_0___0_0" 0 0;background-repeat: no-repeat;
   }
   
   &.sel .button {
-    @extend .__s95_272;
+    @extend .__s96_272;
 -chance-offset: "source/resources/radio/radio_selected_0_0___0_0" 0 0;background-repeat: no-repeat;
   }
   
   &.mixed .button {
-    @extend .__s95_273;
+    @extend .__s96_273;
 -chance-offset: "source/resources/radio/radio_mixed_0_0___0_0" 0 0;background-repeat: no-repeat;
   }
   
   &.sel.active .button {
-    @extend .__s95_274;
+    @extend .__s96_274;
 -chance-offset: "source/resources/radio/radio_selected_active_0_0___0_0" 0 0;background-repeat: no-repeat;
   }
   
   &.mixed.active .button {
-    @extend .__s95_275;
+    @extend .__s96_275;
 -chance-offset: "source/resources/radio/radio_mixed_active_0_0___0_0" 0 0;background-repeat: no-repeat;
   }
   

@@ -8,12 +8,12 @@
   styles into multiple files.  Just add them to your resources or .lrpoj
   directories to be included in the build.
 */
-/* line 15, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
+/* line 15, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
 .base-view {
-  background-image: url("/static/touchpad/en/current/source/resources/images/main-bg.png?1285473869");
+  background-image: url("/static/touchpad/en/current/source/resources/images/main-bg.png?1303700447");
 }
 
-/* line 19, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
+/* line 19, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
 .left-view {
   z-index: 20;
   max-width: 250px;
@@ -24,7 +24,7 @@
   filter: alpha(opacity=0);
 }
 
-/* line 27, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
+/* line 27, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
 .right-view {
   z-index: 1;
   -webkit-box-shadow: 0px 0px 2px black;
@@ -34,16 +34,81 @@
   filter: alpha(opacity=0);
 }
 
-/* line 34, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
+/* line 34, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
 .line {
-  background-image: url("/static/touchpad/en/current/source/resources/images/line.png?1303618237");
+  background-image: url("/static/touchpad/en/current/source/resources/images/line.png?1303700447");
 }
 
-/* line 38, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
+/* line 38, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
 .toolbar {
-  background-image: url("/static/touchpad/en/current/source/resources/images/toolbar.png?1303627133");
+  background-image: url("/static/touchpad/en/current/source/resources/images/toolbar.png?1303703896");
   z-index: 1;
   -webkit-box-shadow: 0px 0px 5px black;
   -moz-box-shadow: 0px 0px 5px black;
+}
+
+/* line 45, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
+.popover-pane {
+  opacity: 0.0;
+  -moz-opacity: 0.0;
+  filter: alpha(opacity=0);
+}
+
+/* line 3, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/popover-button.css.scss */
+.popover-button.sc-button-view {
+  display: inline-block;
+  vertical-align: middle;
+  text-decoration: none;
+  border: 1px #555 none;
+  opacity: 0.0;
+  -moz-opacity: 0.0;
+  filter: alpha(opacity=0);
+}
+
+/* line 11, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/popover-button.css.scss */
+.popover-button.sc-button-view.sc-regular-size.square {
+  font-size: 12px;
+  max-height: 44px;
+  background: no-repeat url("/static/touchpad/en/current/source/resources/images/tcb-buttons.png?1303703835") 0 0px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* line 19, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/popover-button.css.scss */
+.popover-button.sc-button-view.sc-regular-size.square .sc-button-inner {
+  height: 24px;
+  max-height: 110px;
+  background: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* line 27, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/popover-button.css.scss */
+.popover-button.sc-button-view.sc-regular-size.square .sc-button-label {
+  height: 45px;
+  color: black;
+  text-shadow: 0px 1px 1px white;
+  line-height: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  background: none;
+  cursor: pointer;
+}
+
+/* line 38, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/popover-button.css.scss */
+.popover-button.sc-button-view.sc-regular-size.square.active {
+  background: no-repeat url("/static/touchpad/en/current/source/resources/images/tcb-buttons.png?1303703835") 0 -94px;
+}
+
+/* line 42, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/popover-button.css.scss */
+.popover-button.sc-button-view.sc-regular-size.square.active .sc-button-inner {
+  background: none;
+}
+
+/* line 46, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/touchpad/en/current/resources/popover-button.css.scss */
+.popover-button.sc-button-view.sc-regular-size.square.active .sc-button-label {
+  background: none;
+  color: white;
+  text-shadow: 0px 1px 1px black;
 }
 

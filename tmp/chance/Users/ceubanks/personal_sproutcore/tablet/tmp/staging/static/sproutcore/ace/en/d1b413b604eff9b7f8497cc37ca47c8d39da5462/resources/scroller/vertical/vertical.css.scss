@@ -7,7 +7,7 @@ $theme: '.ace';/* Track */
   	right: 0px;
   	bottom: 0px;
   	width: 14px;
-  	@extend .__s89_245;
+  	@extend .__s90_245;
 -chance-offset: "source/resources/scroller/vertical/track_and_arrows_0_16__1__0" 0 0;background-repeat: repeat-y;
   }
   
@@ -16,14 +16,14 @@ $theme: '.ace';/* Track */
   	width: 14px;
   	height: 16px;
   	top: 0px;
-    @extend .__s89_246;
+    @extend .__s90_246;
 -chance-offset: "source/resources/scroller/vertical/track_and_arrows_0_0__16__0" 0 0;background-repeat: no-repeat;
   }
 
   
   .button-top, .button-left {
 	  position:absolute;
-	  @extend .__s89_247;
+	  @extend .__s90_247;
 -chance-offset: "source/resources/scroller/vertical/track_and_arrows_0___26_15_0" 0 0;background-repeat: no-repeat;
   	height: 26px;
     width: 14px;
@@ -33,7 +33,7 @@ $theme: '.ace';/* Track */
 
   .button-right, .button-bottom {
   	position:absolute;
-  	@extend .__s89_248;
+  	@extend .__s90_248;
 -chance-offset: "source/resources/scroller/vertical/track_and_arrows_0___15_0_0" 0 0;background-repeat: no-repeat;
   	height: 15px;
     width: 14px;
@@ -43,13 +43,13 @@ $theme: '.ace';/* Track */
   
   .button-top:active, .button-left:active,
   .button-top.active, .button-left.active {
-	  @extend .__s89_249;
+	  @extend .__s90_249;
 -chance-offset: "source/resources/scroller/vertical/track_and_arrows_active_0___26_15_0" 0 0;background-repeat: no-repeat;
   }
 
   .button-right:active, .button-bottom:active,
   .button-right.active, .button-bottom.active {
-  	@extend .__s89_250;
+  	@extend .__s90_250;
 -chance-offset: "source/resources/scroller/vertical/track_and_arrows_active_0___15_0_0" 0 0;background-repeat: no-repeat;
   }
 
@@ -65,7 +65,7 @@ $theme: '.ace';/* Track */
   	top: 10px;
   	bottom: 8px; /* hack to account for a different cap length than is hard-coded in;
   	we need a render delegate here pretty badly. */
-  	@extend .__s89_251;
+  	@extend .__s90_251;
 -chance-offset: "source/resources/scroller/vertical/thumb_0_10__1__0" 0 0;background-repeat: repeat-y;
   }
 
@@ -74,7 +74,7 @@ $theme: '.ace';/* Track */
   	width: 14px;
   	top: 0px;
   	height: 10px;
-  	@extend .__s89_252;
+  	@extend .__s90_252;
 -chance-offset: "source/resources/scroller/vertical/thumb_0_0__10__0" 0 0;background-repeat: no-repeat;
   }
 
@@ -84,7 +84,7 @@ $theme: '.ace';/* Track */
   	bottom: -2px; /* hack to account for a different cap length than is hard-coded in;
   	we need a render delegate here pretty badly. */
   	height: 10px;
-  	@extend .__s89_253;
+  	@extend .__s90_253;
 -chance-offset: "source/resources/scroller/vertical/thumb_0___10_0_0" 0 0;background-repeat: no-repeat;
   }
 }

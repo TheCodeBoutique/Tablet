@@ -1,0 +1,51 @@
+
+$theme: '.ace.touchpad';
+.popover-button.sc-button-view {
+  display: inline-block ;
+  vertical-align: middle;
+  text-decoration: none ;
+  border: 1px #555 none;
+  opacity: 0.0; -moz-opacity: 0.0; filter:alpha(opacity=0);
+}
+
+ .popover-button.sc-button-view.sc-regular-size.square {
+  font-size: 12px;
+  max-height: 44px;
+	background: no-repeat url('/static/touchpad/en/current/source/resources/images/tcb-buttons.png?1303703835') 0 0px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+ .popover-button.sc-button-view.sc-regular-size.square .sc-button-inner {
+  height: 24px;
+  max-height: 110px;
+	background: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+ .popover-button.sc-button-view.sc-regular-size.square .sc-button-label {
+  height: 45px;
+	color: black;
+	text-shadow: 0px 1px 1px white;
+  line-height: 30px;  
+  margin-left: 0px;
+  margin-right: 0px;  
+	background: none;
+	cursor: pointer;
+	}
+
+ .popover-button.sc-button-view.sc-regular-size.square.active {
+	background: no-repeat url('/static/touchpad/en/current/source/resources/images/tcb-buttons.png?1303703835') 0 -94px;
+}
+
+ .popover-button.sc-button-view.sc-regular-size.square.active .sc-button-inner {
+	background: none;
+}
+
+ .popover-button.sc-button-view.sc-regular-size.square.active .sc-button-label {
+	background: none;
+	color: white;
+	text-shadow: 0px 1px 1px black;
+}
+

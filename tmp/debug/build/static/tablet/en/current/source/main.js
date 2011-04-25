@@ -26,12 +26,12 @@ Tablet.main = function main() {
     var isPort = Tablet.motionController.get('isInPortrait');
 
     if (isPort === true) {
-      Tablet.mainPage.mainPane.rightPanel.testButton.animate('left', 0, {
+      Tablet.mainPage.mainPane.rightPanel.popoverButton.animate('left', 0, {
         duration: '.1',
         timing: 'ease-in-out'
       });
     } else {
-      Tablet.mainPage.mainPane.rightPanel.testButton.animate('left', 220, {
+      Tablet.mainPage.mainPane.rightPanel.popoverButton.animate('left', 260, {
         duration: '.1',
         timing: 'ease-in-out'
       });

@@ -11,7 +11,7 @@ $theme: '.ace.sc-regular-size';
     }
 
     & > .left {
-@extend .__s62_21;
+@extend .__s63_21;
 -chance-offset: "source/resources/button/ace/24px/normal_button_0_0_3__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -20,7 +20,7 @@ bottom: 0px;
 width: 3px; 
 }
 & > .middle {
-@extend .__s62_22;
+@extend .__s63_22;
 -chance-offset: "source/resources/button/ace/24px/normal_button_3_0_1__0_" 0 0;background-repeat: repeat-x;
 position: absolute;
 left: 3px; 
@@ -29,7 +29,7 @@ right: 3px;
 bottom: 0px; 
 }
 & > .right {
-@extend .__s62_23;
+@extend .__s63_23;
 -chance-offset: "source/resources/button/ace/24px/normal_button__0_3__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -41,7 +41,7 @@ width: 3px;
 
     &.active {
       & > .left {
-@extend .__s62_24;
+@extend .__s63_24;
 -chance-offset: "source/resources/button/ace/24px/active_button_0_0_3__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -50,7 +50,7 @@ bottom: 0px;
 width: 3px; 
 }
 & > .middle {
-@extend .__s62_25;
+@extend .__s63_25;
 -chance-offset: "source/resources/button/ace/24px/active_button_3_0_1__0_" 0 0;background-repeat: repeat-x;
 position: absolute;
 left: 3px; 
@@ -59,7 +59,7 @@ right: 3px;
 bottom: 0px; 
 }
 & > .right {
-@extend .__s62_26;
+@extend .__s63_26;
 -chance-offset: "source/resources/button/ace/24px/active_button__0_3__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -72,7 +72,7 @@ width: 3px;
 
     &.sel, &.def {
       & > .left {
-@extend .__s62_27;
+@extend .__s63_27;
 -chance-offset: "source/resources/button/ace/24px/selected_button_0_0_3__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -81,7 +81,7 @@ bottom: 0px;
 width: 3px; 
 }
 & > .middle {
-@extend .__s62_28;
+@extend .__s63_28;
 -chance-offset: "source/resources/button/ace/24px/selected_button_3_0_1__0_" 0 0;background-repeat: repeat-x;
 position: absolute;
 left: 3px; 
@@ -90,7 +90,7 @@ right: 3px;
 bottom: 0px; 
 }
 & > .right {
-@extend .__s62_29;
+@extend .__s63_29;
 -chance-offset: "source/resources/button/ace/24px/selected_button__0_3__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -102,7 +102,7 @@ width: 3px;
   
       &.active {
         & > .left {
-@extend .__s62_30;
+@extend .__s63_30;
 -chance-offset: "source/resources/button/ace/24px/selected_active_button_0_0_3__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -111,7 +111,7 @@ bottom: 0px;
 width: 3px; 
 }
 & > .middle {
-@extend .__s62_31;
+@extend .__s63_31;
 -chance-offset: "source/resources/button/ace/24px/selected_active_button_3_0_1__0_" 0 0;background-repeat: repeat-x;
 position: absolute;
 left: 3px; 
@@ -120,7 +120,7 @@ right: 3px;
 bottom: 0px; 
 }
 & > .right {
-@extend .__s62_32;
+@extend .__s63_32;
 -chance-offset: "source/resources/button/ace/24px/selected_active_button__0_3__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -143,7 +143,7 @@ $theme: '.ace.sc-regular-size.point-left';
 
     #{$theme}.button {
       & > .left {
-@extend .__s62_33;
+@extend .__s63_33;
 -chance-offset: "source/resources/button/ace/24px/normal_button_pointer_0_0_12__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -157,7 +157,7 @@ width: 12px;
 
       &.active {
         & > .left {
-@extend .__s62_34;
+@extend .__s63_34;
 -chance-offset: "source/resources/button/ace/24px/active_button_pointer_0_0_12__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -171,7 +171,7 @@ width: 12px;
 
       &.sel, &.def {
         & > .left {
-@extend .__s62_35;
+@extend .__s63_35;
 -chance-offset: "source/resources/button/ace/24px/selected_button_pointer_0_0_12__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -185,7 +185,7 @@ width: 12px;
 
       &.sel.active, &.def.active {
         & > .left {
-@extend .__s62_36;
+@extend .__s63_36;
 -chance-offset: "source/resources/button/ace/24px/selected_active_button_pointer_0_0_12__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -205,7 +205,7 @@ $theme: '.ace.sc-regular-size.point-right';
 
     #{$theme}.button {
       & > .right {
-@extend .__s62_37;
+@extend .__s63_37;
 -chance-offset: "source/resources/button/ace/24px/normal_button_pointer__0_12__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -219,7 +219,7 @@ width: 12px;
 
       &.active {
         & > .right {
-@extend .__s62_38;
+@extend .__s63_38;
 -chance-offset: "source/resources/button/ace/24px/active_button_pointer__0_12__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -233,7 +233,7 @@ width: 12px;
 
       &.sel, &.def {
         & > .right {
-@extend .__s62_39;
+@extend .__s63_39;
 -chance-offset: "source/resources/button/ace/24px/selected_button_pointer__0_12__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -247,7 +247,7 @@ width: 12px;
 
       &.sel.active, &.def.active {
         & > .right {
-@extend .__s62_40;
+@extend .__s63_40;
 -chance-offset: "source/resources/button/ace/24px/selected_active_button_pointer__0_12__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -267,7 +267,7 @@ $theme: '.ace.sc-regular-size.capsule';
 
     #{$theme}.button {
       & > .left {
-@extend .__s62_41;
+@extend .__s63_41;
 -chance-offset: "source/resources/button/ace/24px/normal_button_capsule_0_0_12__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -276,7 +276,7 @@ bottom: 0px;
 width: 12px; 
 }
 & > .right {
-@extend .__s62_42;
+@extend .__s63_42;
 -chance-offset: "source/resources/button/ace/24px/normal_button_capsule__0_12__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -294,7 +294,7 @@ width: 12px;
 
       &.active {
         & > .left {
-@extend .__s62_43;
+@extend .__s63_43;
 -chance-offset: "source/resources/button/ace/24px/active_button_capsule_0_0_12__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -303,7 +303,7 @@ bottom: 0px;
 width: 12px; 
 }
 & > .right {
-@extend .__s62_44;
+@extend .__s63_44;
 -chance-offset: "source/resources/button/ace/24px/active_button_capsule__0_12__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -317,7 +317,7 @@ width: 12px;
 
       &.sel, &.def {
         & > .left {
-@extend .__s62_45;
+@extend .__s63_45;
 -chance-offset: "source/resources/button/ace/24px/selected_button_capsule_0_0_12__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -326,7 +326,7 @@ bottom: 0px;
 width: 12px; 
 }
 & > .right {
-@extend .__s62_46;
+@extend .__s63_46;
 -chance-offset: "source/resources/button/ace/24px/selected_button_capsule__0_12__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 
@@ -340,7 +340,7 @@ width: 12px;
 
       &.sel.active, &.def.active {
         & > .left {
-@extend .__s62_47;
+@extend .__s63_47;
 -chance-offset: "source/resources/button/ace/24px/selected_active_button_capsule_0_0_12__0_" 0 0;background-repeat: no-repeat;
 position: absolute;
 left: 0px; 
@@ -349,7 +349,7 @@ bottom: 0px;
 width: 12px; 
 }
 & > .right {
-@extend .__s62_48;
+@extend .__s63_48;
 -chance-offset: "source/resources/button/ace/24px/selected_active_button_capsule__0_12__0_0" 0 0;background-repeat: no-repeat;
 position: absolute;
 top: 0px; 

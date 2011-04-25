@@ -9,7 +9,7 @@ $theme: '.ace.sc-regular-size';
     position: absolute;
     width: 16px;
     height: 16px;
-    @extend .__s100_302;
+    @extend .__s101_302;
 -chance-offset: "source/resources/checkbox/ace/16px/checkbox_unchecked_0_0___0_0" 0 0;background-repeat: no-repeat;
   }
   
@@ -19,28 +19,28 @@ $theme: '.ace.sc-regular-size';
   }
 
   &.active .button {
-    @extend .__s100_303;
+    @extend .__s101_303;
 -chance-offset: "source/resources/checkbox/ace/16px/checkbox_unchecked_active_0_0___0_0" 0 0;background-repeat: no-repeat;
   }
 
   &.sel .button {
-    @extend .__s100_304;
+    @extend .__s101_304;
 -chance-offset: "source/resources/checkbox/ace/16px/checkbox_checked_0_0___0_0" 0 0;background-repeat: no-repeat;
   }
 
   &.sel.active .button {
-    @extend .__s100_305;
+    @extend .__s101_305;
 -chance-offset: "source/resources/checkbox/ace/16px/checkbox_checked_active_0_0___0_0" 0 0;background-repeat: no-repeat;
   }
   
 
   &.mixed .button {
-    @extend .__s100_306;
+    @extend .__s101_306;
 -chance-offset: "source/resources/checkbox/ace/16px/checkbox_mixed_0_0___0_0" 0 0;background-repeat: no-repeat;
   }
 
   &.mixed.active .button {
-    @extend .__s100_307;
+    @extend .__s101_307;
 -chance-offset: "source/resources/checkbox/ace/16px/checkbox_mixed_active_0_0___0_0" 0 0;background-repeat: no-repeat;
   }
   

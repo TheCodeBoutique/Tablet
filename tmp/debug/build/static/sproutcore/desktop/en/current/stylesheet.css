@@ -1,5 +1,5 @@
 /* SC.TabView */
-/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/tab.css.scss */
+/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/tab.css.scss */
 .sc-tab-view > .sc-container-view {
   -webkit-border-radius: 2px;
   border-radius: 2px;
@@ -7,7 +7,7 @@
 }
 
 /* SC.ProgressView */
-/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/progress.css.scss */
+/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/progress.css.scss */
 .sc-progress-view {
   border: 1px solid #555555;
   background-color: #c8c8c8;
@@ -15,13 +15,13 @@
   border-radius: 2px;
 }
 
-/* line 11, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/progress.css.scss */
+/* line 11, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/progress.css.scss */
 .sc-progress-view.disabled {
   background-color: #e8e8e8;
   border: 1px #9a9a9a solid;
 }
 
-/* line 16, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/progress.css.scss */
+/* line 16, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/progress.css.scss */
 .sc-progress-view .sc-inner {
   position: absolute;
   left: 0px;
@@ -33,13 +33,13 @@
   -webkit-transform: translate3d(0, 0, 0);
 }
 
-/* line 27, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/progress.css.scss */
+/* line 27, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/progress.css.scss */
 .sc-progress-view.sc-indeterminate .sc-inner {
   background: #555555;
   border: 0;
 }
 
-/* line 32, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/progress.css.scss */
+/* line 32, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/progress.css.scss */
 .sc-progress-view.sc-empty .sc-inner {
   border: none;
 }
@@ -47,12 +47,12 @@
 /* SC.DisclosureView - sc-theme */
 /* @group disclosure */
 /* @group basic */
-/* line 8, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
+/* line 8, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
 .sc-button-view.sc-disclosure-view {
   background: transparent;
 }
 
-/* line 12, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
+/* line 12, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
 .sc-button-view.sc-disclosure-view .button {
   width: 16px;
   height: 16px;
@@ -61,7 +61,7 @@
   top: 0px;
 }
 
-/* line 20, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
+/* line 20, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
 .sc-button-view.sc-disclosure-view .sc-button-label {
   position: absolute;
   left: 16px;
@@ -71,50 +71,50 @@
   text-align: left;
 }
 
-/* line 38, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
+/* line 38, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
 .sc-button-view.sc-disclosure-view.sel .button {
   background-position: 32px 16px;
 }
 
-/* line 42, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
+/* line 42, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
 .sc-button-view.sc-disclosure-view .button {
   background-position: 64px 16px;
 }
 
-/* line 52, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
+/* line 52, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
 .sc-button-view.sc-disclosure-view.sel.disabled .button {
   background-position: 32px 16px;
 }
 
-/* line 56, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
+/* line 56, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
 .sc-button-view.sc-disclosure-view.disabled .button {
   background-position: 64px 16px;
 }
 
-/* line 64, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
+/* line 64, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
 .sc-button-view.sc-disclosure-view.sel.active .button {
   background-position: 32px 16px;
 }
 
-/* line 68, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
+/* line 68, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/disclosure.css.scss */
 .sc-theme .sc-button-view.sc-disclosure-view.active .button {
   background-position: 64px 16px;
 }
 
 /* SC.SplitDividerView */
-/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/split_divider.css.scss */
+/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/split_divider.css.scss */
 .sc-split-divider-view {
   background-color: #ddd;
 }
 
 /* @override http://localhost:4020/static/sproutcore/en/desktop/_cache/sc.theme/1228020574/slider.css */
 /* @group SC.SliderView */
-/* line 5, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css.scss */
+/* line 5, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css.scss */
 .sc-slider-view {
   height: 21px;
 }
 
-/* line 17, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css.scss */
+/* line 17, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css.scss */
 .sc-slider-view .track {
   position: absolute;
   left: 8px;
@@ -127,24 +127,24 @@
   border-radius: 3px;
 }
 
-/* line 33, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css.scss */
+/* line 33, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css.scss */
 .sc-slider-view .track .left,
 .sc-slider-view .track .right {
   display: none;
 }
 
-/* line 38, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css.scss */
+/* line 38, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css.scss */
 .blur .sc-slider-view .track,
 .focus .sc-slider-view.disabled .track {
   border: 1px #ccc solid;
 }
 
-/* line 42, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css.scss */
+/* line 42, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css.scss */
 .focus .sc-slider-view .track {
   border: 1px #999 solid;
 }
 
-/* line 46, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css.scss */
+/* line 46, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/slider.css.scss */
 .sc-slider-view .sc-handle {
   height: 12px;
   width: 12px;
@@ -159,7 +159,7 @@
 }
 
 /** SC.PickerPane Support */
-/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/picker.css.scss */
+/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/picker.css.scss */
 .sc-pane.sc-panel.sc-picker .perfectRight {
   position: absolute;
   width: 25px;
@@ -168,7 +168,7 @@
   left: -25px;
 }
 
-/* line 12, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/picker.css.scss */
+/* line 12, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/picker.css.scss */
 .sc-pane.sc-panel.sc-picker .perfectLeft {
   position: absolute;
   width: 25px;
@@ -177,7 +177,7 @@
   right: -25px;
 }
 
-/* line 20, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/picker.css.scss */
+/* line 20, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/picker.css.scss */
 .sc-pane.sc-panel.sc-picker .perfectTop {
   position: absolute;
   width: 51px;
@@ -187,7 +187,7 @@
   margin-left: -25px;
 }
 
-/* line 29, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/picker.css.scss */
+/* line 29, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/picker.css.scss */
 .sc-pane.sc-panel.sc-picker .perfectBottom {
   position: absolute;
   width: 51px;
@@ -198,12 +198,12 @@
 }
 
 /** SC.ModalPane Support */
-/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/modal.css.scss */
+/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/modal.css.scss */
 .sc-pane.sc-modal {
   z-index: 100;
 }
 
-/* line 8, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/modal.css.scss */
+/* line 8, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/modal.css.scss */
 .msie .sc-pane.sc-modal {
   background-image: url(".");
 }
@@ -213,24 +213,24 @@
 	http://localhost:4020/static/sproutcore/empty_theme/en/current/source/list_item.css?1235950291
 */
 /* SC.ListItemView */
-/* line 9, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 9, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.sc-regular-size {
   font-size: 11px;
 }
 
-/* line 13, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 13, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.sel {
   background-color: #888;
   color: white;
 }
 
-/* line 18, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 18, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.active {
   background-color: #333;
   color: white;
 }
 
-/* line 25, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 25, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view label {
   top: 50%;
   height: 18px;
@@ -247,7 +247,7 @@
   -ms-text-overflow: ellipsis;
 }
 
-/* line 41, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 41, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view .sc-outline {
   position: absolute;
   left: 0;
@@ -256,18 +256,18 @@
   bottom: 0;
 }
 
-/* line 50, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 50, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.has-icon label,
 .sc-list-item-view.has-checkbox label {
   left: 24px;
 }
 
-/* line 54, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 54, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.has-checkbox.has-icon label {
   left: 44px;
 }
 
-/* line 65, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 65, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view img.icon,
 .sc-list-item-view img.right-icon {
   margin-top: -9px;
@@ -275,47 +275,47 @@
   top: 50%;
 }
 
-/* line 71, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 71, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view img.icon {
   left: 5px;
 }
 
-/* line 75, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 75, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.has-checkbox img.icon {
   left: 25px;
 }
 
-/* line 79, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 79, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view img.right-icon {
   right: 5px;
 }
 
-/* line 83, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 83, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.has-count img.right-icon {
   right: 32px;
 }
 
-/* line 86, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 86, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.has-count.two-digit img.right-icon {
   right: 38px;
 }
 
-/* line 89, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 89, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.has-count.three-digit img.right-icon {
   right: 44px;
 }
 
-/* line 92, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 92, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.has-count.four-digit img.right-icon {
   right: 50px;
 }
 
-/* line 95, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 95, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.has-count.five-digit img.right-icon {
   right: 56px;
 }
 
-/* line 103, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 103, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view .sc-checkbox-view {
   position: absolute;
   display: block;
@@ -331,18 +331,18 @@
   background-color: #d0d0d0;
 }
 
-/* line 119, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 119, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.sel .sc-checkbox-view {
   border: 1px #333 solid;
 }
 
-/* line 124, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 124, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view .sc-checkbox-view.active {
   background-color: #333;
   border-color: black;
 }
 
-/* line 133, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 133, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view .count {
   position: absolute;
   display: block;
@@ -363,24 +363,24 @@
   -moz-border-radius: 7px;
 }
 
-/* line 153, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 153, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.sel .count {
   background-color: #333;
   border: 1px #333 solid;
 }
 
-/* line 158, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 158, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.active .count {
   background-color: #000;
   border: 1px #000 solid;
 }
 
-/* line 163, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 163, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view.has-branch .count {
   right: 16px;
 }
 
-/* line 171, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
+/* line 171, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/list_item.css.scss */
 .sc-list-item-view .branch {
   position: absolute;
   width: 16px;
@@ -391,7 +391,7 @@
   margin-top: -8px;
 }
 
-/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
+/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
 .sc-well-view .top-right-edge {
   position: absolute;
   width: 7px;
@@ -400,7 +400,7 @@
   right: 0px;
 }
 
-/* line 10, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
+/* line 10, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
 .sc-well-view .top-left-edge {
   position: absolute;
   width: 7px;
@@ -409,7 +409,7 @@
   left: 0px;
 }
 
-/* line 18, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
+/* line 18, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
 .sc-well-view .bottom-left-edge {
   position: absolute;
   width: 7px;
@@ -418,7 +418,7 @@
   left: 0px;
 }
 
-/* line 26, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
+/* line 26, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
 .sc-well-view .bottom-right-edge {
   position: absolute;
   width: 7px;
@@ -427,7 +427,7 @@
   right: 0px;
 }
 
-/* line 34, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
+/* line 34, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
 .sc-well-view .top-edge {
   position: absolute;
   height: 5px;
@@ -436,7 +436,7 @@
   left: 7px;
 }
 
-/* line 42, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
+/* line 42, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
 .sc-well-view .bottom-edge {
   position: absolute;
   height: 5px;
@@ -445,7 +445,7 @@
   left: 7px;
 }
 
-/* line 50, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
+/* line 50, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
 .sc-well-view .left-edge {
   position: absolute;
   width: 7px;
@@ -454,7 +454,7 @@
   left: 0px;
 }
 
-/* line 58, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
+/* line 58, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
 .sc-well-view .right-edge {
   position: absolute;
   width: 7px;
@@ -463,7 +463,7 @@
   right: 0px;
 }
 
-/* line 66, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
+/* line 66, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/well.css.scss */
 .sc-well-view .content-background {
   position: absolute;
   top: 5px;
@@ -473,13 +473,13 @@
 }
 
 /** SC.Panel Support */
-/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
+/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
 .sc-pane.sc-panel {
   overflow: visible;
   z-index: 100;
 }
 
-/* line 9, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
+/* line 9, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
 .sc-pane.sc-modal.for-sc-panel {
   background: black;
   opacity: 0.3;
@@ -488,13 +488,13 @@
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=30);
 }
 
-/* line 17, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
+/* line 17, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
 .sc-pane.sc-panel > .sc-view {
   border: 0px #444 solid;
   background-color: #eaeaea;
 }
 
-/* line 22, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
+/* line 22, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
 .sc-pane.sc-panel > .top-right-edge {
   position: absolute;
   width: 40px;
@@ -504,7 +504,7 @@
   z-index: -1;
 }
 
-/* line 31, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
+/* line 31, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
 .sc-pane.sc-panel > .top-left-edge {
   position: absolute;
   width: 40px;
@@ -514,7 +514,7 @@
   z-index: -1;
 }
 
-/* line 40, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
+/* line 40, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
 .sc-pane.sc-panel > .bottom-left-edge {
   position: absolute;
   width: 40px;
@@ -524,7 +524,7 @@
   z-index: -1;
 }
 
-/* line 49, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
+/* line 49, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
 .sc-pane.sc-panel > .bottom-right-edge {
   position: absolute;
   width: 40px;
@@ -534,7 +534,7 @@
   z-index: -1;
 }
 
-/* line 58, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
+/* line 58, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
 .sc-pane.sc-panel > .top-edge {
   position: absolute;
   height: 20px;
@@ -544,7 +544,7 @@
   z-index: -1;
 }
 
-/* line 67, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
+/* line 67, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
 .sc-pane.sc-panel > .bottom-edge {
   position: absolute;
   height: 20px;
@@ -554,7 +554,7 @@
   z-index: -1;
 }
 
-/* line 76, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
+/* line 76, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
 .sc-pane.sc-panel > .left-edge {
   position: absolute;
   width: 20px;
@@ -564,7 +564,7 @@
   z-index: -1;
 }
 
-/* line 85, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
+/* line 85, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/panel.css.scss */
 .sc-pane.sc-panel > .right-edge {
   position: absolute;
   width: 20px;
@@ -578,1103 +578,1103 @@
   These built-in icons are available for use in your own application free of charge.  Just pass one of these CSS classnames as an image.
 */
 /* @group 48-Pixel Icons */
-/* line 8, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 8, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-alert-48 {
   width: 48px;
   height: 48px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") left top;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") left top;
 }
 
-/* line 14, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 14, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-info-48 {
   width: 48px;
   height: 48px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") left -48px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") left -48px;
 }
 
-/* line 20, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 20, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-error-48 {
   width: 48px;
   height: 48px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") left -96px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") left -96px;
 }
 
-/* line 31, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 31, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-tools-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -144px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -144px;
 }
 
-/* line 37, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 37, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-bookmark-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -24px -144px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -24px -144px;
 }
 
-/* line 43, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 43, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-info-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -168px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -168px;
 }
 
-/* line 49, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 49, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-help-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -192px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -192px;
 }
 
-/* line 55, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 55, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-alert-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -24px -192px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -24px -192px;
 }
 
-/* line 61, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 61, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-left-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -216px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -216px;
 }
 
-/* line 67, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 67, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-right-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -24px -216px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -24px -216px;
 }
 
-/* line 73, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 73, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-up-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -240px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -240px;
 }
 
-/* line 79, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 79, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-down-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -24px -240px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -24px -240px;
 }
 
-/* line 85, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 85, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-undo-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -264px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -264px;
 }
 
-/* line 91, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 91, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-redo-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -24px -264px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -24px -264px;
 }
 
-/* line 97, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 97, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-group-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -288px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -288px;
 }
 
-/* line 103, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 103, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-user-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -24px -288px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -24px -288px;
 }
 
-/* line 109, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 109, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-cancel-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -312px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -312px;
 }
 
-/* line 115, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 115, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-options-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -24px -312px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -24px -312px;
 }
 
-/* line 121, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 121, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-folder-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -336px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -336px;
 }
 
-/* line 127, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 127, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-trash-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -24px -336px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -24px -336px;
 }
 
-/* line 133, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 133, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-document-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -360px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -360px;
 }
 
-/* line 139, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 139, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-favorite-24 {
   width: 24px;
   height: 24px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -24px -360px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -24px -360px;
 }
 
-/* line 149, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 149, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-bookmark-16 {
   width: 16px;
   height: 16px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -16px -384px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -16px -384px;
 }
 
-/* line 155, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 155, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-info-16 {
   width: 16px;
   height: 16px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -32px -384px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -32px -384px;
 }
 
-/* line 161, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 161, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-help-16 {
   width: 16px;
   height: 16px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -16px -400px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -16px -400px;
 }
 
-/* line 167, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 167, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-alert-16 {
   width: 16px;
   height: 16px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -32px -400px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -32px -400px;
 }
 
-/* line 173, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 173, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-group-16 {
   width: 16px;
   height: 16px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -448px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -448px;
 }
 
-/* line 179, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 179, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-user-16 {
   width: 16px;
   height: 16px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -16px -448px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -16px -448px;
 }
 
-/* line 185, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 185, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-options-16 {
   width: 16px;
   height: 16px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -464px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -464px;
 }
 
-/* line 191, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 191, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-folder-16 {
   width: 16px;
   height: 16px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -16px -464px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -16px -464px;
 }
 
-/* line 197, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 197, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-trash-16 {
   width: 16px;
   height: 16px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -32px -464px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -32px -464px;
 }
 
-/* line 203, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 203, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-document-16 {
   width: 16px;
   height: 16px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") 0px -480px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") 0px -480px;
 }
 
-/* line 209, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 209, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-icon-favorite-16 {
   width: 16px;
   height: 16px;
-  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303689269") -16px -480px;
+  background: no-repeat url("/static/sproutcore/desktop/en/current/source/images/icons/shared.png?1303700680") -16px -480px;
 }
 
-/* line 219, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 219, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.carat-1-n {
   background-position: 0 0;
 }
 
-/* line 223, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 223, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.carat-1-ne {
   background-position: -16px 0;
 }
 
-/* line 227, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 227, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.carat-1-e {
   background-position: -32px 0;
 }
 
-/* line 231, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 231, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.carat-1-se {
   background-position: -48px 0;
 }
 
-/* line 235, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 235, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.carat-1-s {
   background-position: -64px 0;
 }
 
-/* line 239, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 239, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.carat-1-sw {
   background-position: -80px 0;
 }
 
-/* line 243, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 243, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.carat-1-w {
   background-position: -96px 0;
 }
 
-/* line 247, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 247, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.carat-1-nw {
   background-position: -112px 0;
 }
 
-/* line 251, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 251, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.carat-2-n-s {
   background-position: -128px 0;
 }
 
-/* line 255, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 255, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.carat-2-e-w {
   background-position: -144px 0;
 }
 
-/* line 259, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 259, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.triangle-1-n {
   background-position: 0 -16px;
 }
 
-/* line 263, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 263, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.triangle-1-ne {
   background-position: -16px -16px;
 }
 
-/* line 267, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 267, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.triangle-1-e {
   background-position: -32px -16px;
 }
 
-/* line 271, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 271, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.triangle-1-se {
   background-position: -48px -16px;
 }
 
-/* line 275, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 275, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.triangle-1-s {
   background-position: -64px -16px;
 }
 
-/* line 279, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 279, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.triangle-1-sw {
   background-position: -80px -16px;
 }
 
-/* line 283, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 283, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.triangle-1-w {
   background-position: -96px -16px;
 }
 
-/* line 287, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 287, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.triangle-1-nw {
   background-position: -112px -16px;
 }
 
-/* line 291, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 291, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.triangle-2-n-s {
   background-position: -128px -16px;
 }
 
-/* line 295, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 295, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.triangle-2-e-w {
   background-position: -144px -16px;
 }
 
-/* line 299, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 299, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-1-n {
   background-position: 0 -32px;
 }
 
-/* line 303, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 303, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-1-ne {
   background-position: -16px -32px;
 }
 
-/* line 307, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 307, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-1-e {
   background-position: -32px -32px;
 }
 
-/* line 311, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 311, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-1-se {
   background-position: -48px -32px;
 }
 
-/* line 315, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 315, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-1-s {
   background-position: -64px -32px;
 }
 
-/* line 319, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 319, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-1-sw {
   background-position: -80px -32px;
 }
 
-/* line 323, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 323, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-1-w {
   background-position: -96px -32px;
 }
 
-/* line 327, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 327, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-1-nw {
   background-position: -112px -32px;
 }
 
-/* line 331, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 331, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-2-n-s {
   background-position: -128px -32px;
 }
 
-/* line 335, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 335, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-2-ne-sw {
   background-position: -144px -32px;
 }
 
-/* line 339, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 339, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-2-e-w {
   background-position: -160px -32px;
 }
 
-/* line 343, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 343, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-2-se-nw {
   background-position: -176px -32px;
 }
 
-/* line 347, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 347, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowstop-1-n {
   background-position: -192px -32px;
 }
 
-/* line 351, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 351, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowstop-1-e {
   background-position: -208px -32px;
 }
 
-/* line 355, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 355, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowstop-1-s {
   background-position: -224px -32px;
 }
 
-/* line 359, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 359, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowstop-1-w {
   background-position: -240px -32px;
 }
 
-/* line 363, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 363, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthick-1-n {
   background-position: 0 -48px;
 }
 
-/* line 367, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 367, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthick-1-ne {
   background-position: -16px -48px;
 }
 
-/* line 371, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 371, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthick-1-e {
   background-position: -32px -48px;
 }
 
-/* line 375, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 375, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthick-1-se {
   background-position: -48px -48px;
 }
 
-/* line 379, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 379, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthick-1-s {
   background-position: -64px -48px;
 }
 
-/* line 383, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 383, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthick-1-sw {
   background-position: -80px -48px;
 }
 
-/* line 387, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 387, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthick-1-w {
   background-position: -96px -48px;
 }
 
-/* line 391, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 391, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthick-1-nw {
   background-position: -112px -48px;
 }
 
-/* line 395, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 395, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthick-2-n-s {
   background-position: -128px -48px;
 }
 
-/* line 399, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 399, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthick-2-ne-sw {
   background-position: -144px -48px;
 }
 
-/* line 403, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 403, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthick-2-e-w {
   background-position: -160px -48px;
 }
 
-/* line 407, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 407, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthick-2-se-nw {
   background-position: -176px -48px;
 }
 
-/* line 411, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 411, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthickstop-1-n {
   background-position: -192px -48px;
 }
 
-/* line 415, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 415, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthickstop-1-e {
   background-position: -208px -48px;
 }
 
-/* line 419, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 419, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthickstop-1-s {
   background-position: -224px -48px;
 }
 
-/* line 423, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 423, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowthickstop-1-w {
   background-position: -240px -48px;
 }
 
-/* line 427, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 427, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowreturnthick-1-w {
   background-position: 0 -64px;
 }
 
-/* line 431, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 431, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowreturnthick-1-n {
   background-position: -16px -64px;
 }
 
-/* line 435, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 435, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowreturnthick-1-e {
   background-position: -32px -64px;
 }
 
-/* line 439, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 439, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowreturnthick-1-s {
   background-position: -48px -64px;
 }
 
-/* line 443, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 443, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowreturn-1-w {
   background-position: -64px -64px;
 }
 
-/* line 447, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 447, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowreturn-1-n {
   background-position: -80px -64px;
 }
 
-/* line 451, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 451, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowreturn-1-e {
   background-position: -96px -64px;
 }
 
-/* line 455, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 455, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowreturn-1-s {
   background-position: -112px -64px;
 }
 
-/* line 459, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 459, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowrefresh-1-w {
   background-position: -128px -64px;
 }
 
-/* line 463, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 463, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowrefresh-1-n {
   background-position: -144px -64px;
 }
 
-/* line 467, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 467, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowrefresh-1-e {
   background-position: -160px -64px;
 }
 
-/* line 471, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 471, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrowrefresh-1-s {
   background-position: -176px -64px;
 }
 
-/* line 475, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 475, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-4 {
   background-position: 0 -80px;
 }
 
-/* line 479, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 479, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.arrow-4-diag {
   background-position: -16px -80px;
 }
 
-/* line 483, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 483, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.extlink {
   background-position: -32px -80px;
 }
 
-/* line 487, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 487, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.newwin {
   background-position: -48px -80px;
 }
 
-/* line 491, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 491, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.refresh {
   background-position: -64px -80px;
 }
 
-/* line 495, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 495, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.shuffle {
   background-position: -80px -80px;
 }
 
-/* line 499, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 499, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.transfer-e-w {
   background-position: -96px -80px;
 }
 
-/* line 503, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 503, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.transferthick-e-w {
   background-position: -112px -80px;
 }
 
-/* line 507, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 507, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.folder-collapsed {
   background-position: 0 -96px;
 }
 
-/* line 511, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 511, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.folder-open {
   background-position: -16px -96px;
 }
 
-/* line 515, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 515, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.document {
   background-position: -32px -96px;
 }
 
-/* line 519, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 519, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.document-b {
   background-position: -48px -96px;
 }
 
-/* line 523, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 523, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.note {
   background-position: -64px -96px;
 }
 
-/* line 527, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 527, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.mail-closed {
   background-position: -80px -96px;
 }
 
-/* line 531, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 531, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.mail-open {
   background-position: -96px -96px;
 }
 
-/* line 535, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 535, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.suitcase {
   background-position: -112px -96px;
 }
 
-/* line 539, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 539, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.comment {
   background-position: -128px -96px;
 }
 
-/* line 543, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 543, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.person {
   background-position: -144px -96px;
 }
 
-/* line 547, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 547, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.print {
   background-position: -160px -96px;
 }
 
-/* line 551, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 551, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.trash {
   background-position: -176px -96px;
 }
 
-/* line 555, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 555, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.locked {
   background-position: -192px -96px;
 }
 
-/* line 559, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 559, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.unlocked {
   background-position: -208px -96px;
 }
 
-/* line 563, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 563, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.bookmark {
   background-position: -224px -96px;
 }
 
-/* line 567, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 567, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.tag {
   background-position: -240px -96px;
 }
 
-/* line 571, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 571, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.home {
   background-position: 0 -112px;
 }
 
-/* line 575, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 575, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.flag {
   background-position: -16px -112px;
 }
 
-/* line 579, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 579, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.calendar {
   background-position: -32px -112px;
 }
 
-/* line 583, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 583, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.cart {
   background-position: -48px -112px;
 }
 
-/* line 587, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 587, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.pencil {
   background-position: -64px -112px;
 }
 
-/* line 591, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 591, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.clock {
   background-position: -80px -112px;
 }
 
-/* line 595, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 595, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.disk {
   background-position: -96px -112px;
 }
 
-/* line 599, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 599, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.calculator {
   background-position: -112px -112px;
 }
 
-/* line 603, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 603, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.zoomin {
   background-position: -128px -112px;
 }
 
-/* line 607, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 607, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.zoomout {
   background-position: -144px -112px;
 }
 
-/* line 611, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 611, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.search {
   background-position: -160px -112px;
 }
 
-/* line 615, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 615, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.wrench {
   background-position: -176px -112px;
 }
 
-/* line 619, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 619, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.gear {
   background-position: -192px -112px;
 }
 
-/* line 623, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 623, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.heart {
   background-position: -208px -112px;
 }
 
-/* line 627, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 627, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.star {
   background-position: -224px -112px;
 }
 
-/* line 631, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 631, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.link {
   background-position: -240px -112px;
 }
 
-/* line 635, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 635, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.cancel {
   background-position: 0 -128px;
 }
 
-/* line 639, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 639, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.plus {
   background-position: -16px -128px;
 }
 
-/* line 643, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 643, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.plusthick {
   background-position: -32px -128px;
 }
 
-/* line 647, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 647, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.minus {
   background-position: -48px -128px;
 }
 
-/* line 651, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 651, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.minusthick {
   background-position: -64px -128px;
 }
 
-/* line 655, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 655, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.close {
   background-position: -80px -128px;
 }
 
-/* line 659, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 659, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.closethick {
   background-position: -96px -128px;
 }
 
-/* line 663, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 663, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.key {
   background-position: -112px -128px;
 }
 
-/* line 667, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 667, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.lightbulb {
   background-position: -128px -128px;
 }
 
-/* line 671, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 671, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.scissors {
   background-position: -144px -128px;
 }
 
-/* line 675, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 675, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.clipboard {
   background-position: -160px -128px;
 }
 
-/* line 679, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 679, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.copy {
   background-position: -176px -128px;
 }
 
-/* line 683, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 683, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.contact {
   background-position: -192px -128px;
 }
 
-/* line 687, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 687, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.image {
   background-position: -208px -128px;
 }
 
-/* line 691, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 691, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.video {
   background-position: -224px -128px;
 }
 
-/* line 695, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 695, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.script {
   background-position: -240px -128px;
 }
 
-/* line 699, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 699, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.alert {
   background-position: 0 -144px;
 }
 
-/* line 703, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 703, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.info {
   background-position: -16px -144px;
 }
 
-/* line 707, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 707, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.notice {
   background-position: -32px -144px;
 }
 
-/* line 711, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 711, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.help {
   background-position: -48px -144px;
 }
 
-/* line 715, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 715, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.check {
   background-position: -64px -144px;
 }
 
-/* line 719, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 719, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.bullet {
   background-position: -80px -144px;
 }
 
-/* line 723, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 723, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.radio-off {
   background-position: -96px -144px;
 }
 
-/* line 727, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 727, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.radio-on {
   background-position: -112px -144px;
 }
 
-/* line 731, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 731, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.pin-w {
   background-position: -128px -144px;
 }
 
-/* line 735, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 735, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.pin-s {
   background-position: -144px -144px;
 }
 
-/* line 739, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 739, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.play {
   background-position: 0 -160px;
 }
 
-/* line 743, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 743, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.pause {
   background-position: -16px -160px;
 }
 
-/* line 747, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 747, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.seek-next {
   background-position: -32px -160px;
 }
 
-/* line 751, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 751, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.seek-prev {
   background-position: -48px -160px;
 }
 
-/* line 755, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 755, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.seek-end {
   background-position: -64px -160px;
 }
 
-/* line 759, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 759, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.seek-first {
   background-position: -80px -160px;
 }
 
-/* line 763, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 763, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.stop {
   background-position: -96px -160px;
 }
 
-/* line 767, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 767, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.eject {
   background-position: -112px -160px;
 }
 
-/* line 771, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 771, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.volume-off {
   background-position: -128px -160px;
 }
 
-/* line 775, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 775, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.volume-on {
   background-position: -144px -160px;
 }
 
-/* line 779, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 779, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.power {
   background-position: 0 -176px;
 }
 
-/* line 783, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 783, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.signal-diag {
   background-position: -16px -176px;
 }
 
-/* line 787, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 787, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.signal {
   background-position: -32px -176px;
 }
 
-/* line 791, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 791, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.battery-0 {
   background-position: -48px -176px;
 }
 
-/* line 795, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 795, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.battery-1 {
   background-position: -64px -176px;
 }
 
-/* line 799, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 799, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.battery-2 {
   background-position: -80px -176px;
 }
 
-/* line 803, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 803, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.battery-3 {
   background-position: -96px -176px;
 }
 
-/* line 807, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 807, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-plus {
   background-position: 0 -192px;
 }
 
-/* line 811, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 811, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-minus {
   background-position: -16px -192px;
 }
 
-/* line 815, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 815, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-close {
   background-position: -32px -192px;
 }
 
-/* line 819, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 819, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-triangle-e {
   background-position: -48px -192px;
 }
 
-/* line 823, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 823, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-triangle-s {
   background-position: -64px -192px;
 }
 
-/* line 827, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 827, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-triangle-w {
   background-position: -80px -192px;
 }
 
-/* line 831, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 831, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-triangle-n {
   background-position: -96px -192px;
 }
 
-/* line 835, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 835, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-arrow-e {
   background-position: -112px -192px;
 }
 
-/* line 839, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 839, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-arrow-s {
   background-position: -128px -192px;
 }
 
-/* line 843, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 843, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-arrow-w {
   background-position: -144px -192px;
 }
 
-/* line 847, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 847, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-arrow-n {
   background-position: -160px -192px;
 }
 
-/* line 851, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 851, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-zoomin {
   background-position: -176px -192px;
 }
 
-/* line 855, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 855, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-zoomout {
   background-position: -192px -192px;
 }
 
-/* line 859, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 859, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circle-check {
   background-position: -208px -192px;
 }
 
-/* line 863, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 863, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circlesmall-plus {
   background-position: 0 -208px;
 }
 
-/* line 867, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 867, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circlesmall-minus {
   background-position: -16px -208px;
 }
 
-/* line 871, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 871, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.circlesmall-close {
   background-position: -32px -208px;
 }
 
-/* line 875, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 875, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.squaresmall-plus {
   background-position: -48px -208px;
 }
 
-/* line 879, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 879, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.squaresmall-minus {
   background-position: -64px -208px;
 }
 
-/* line 883, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 883, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.squaresmall-close {
   background-position: -80px -208px;
 }
 
-/* line 887, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 887, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.grip-dotted-vertical {
   background-position: 0 -224px;
 }
 
-/* line 891, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 891, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.grip-dotted-horizontal {
   background-position: -16px -224px;
 }
 
-/* line 895, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 895, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.grip-solid-vertical {
   background-position: -32px -224px;
 }
 
-/* line 899, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 899, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.grip-solid-horizontal {
   background-position: -48px -224px;
 }
 
-/* line 903, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 903, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.gripsmall-diagonal-se {
   background-position: -64px -224px;
 }
 
-/* line 907, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
+/* line 907, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/icons.css.scss */
 .sc-mini-icon.grip-diagonal-se {
   background-position: -80px -224px;
 }
 
-/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/drag.css.scss */
+/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/drag.css.scss */
 .sc-view.sc-ghost-view {
   opacity: 0.5;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
@@ -1684,44 +1684,44 @@
 }
 
 /* Track */
-/* line 3, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 3, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .track {
   background: none;
   display: none;
 }
 
-/* line 10, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 10, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .cap,
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .endcap {
   background: none;
   display: none;
 }
 
-/* line 16, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 16, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .button-top {
   background: none;
   display: none;
 }
 
-/* line 21, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 21, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .button-bottom {
   background: none;
   display: none;
 }
 
-/* line 27, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 27, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .button-top:active {
   background: none;
   display: none;
 }
 
-/* line 32, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 32, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .button-bottom:active {
   background: none;
   display: none;
 }
 
-/* line 38, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 38, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .thumb {
   position: absolute;
   opacity: 0.5;
@@ -1731,7 +1731,7 @@
   overflow: hidden;
 }
 
-/* line 49, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 49, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .thumb-top {
   -webkit-border-top-left-radius: 4px;
   -webkit-border-top-right-radius: 4px;
@@ -1743,7 +1743,7 @@
   background: black;
 }
 
-/* line 60, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 60, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .thumb-clip {
   position: absolute;
   overflow: hidden;
@@ -1753,7 +1753,7 @@
   left: 5px;
 }
 
-/* line 69, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 69, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .thumb-inner {
   -webkit-transform: translate3d(0px, 0px, 0px);
   position: absolute;
@@ -1763,7 +1763,7 @@
   height: 1034px;
 }
 
-/* line 78, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 78, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .thumb-center {
   position: absolute;
   width: 5px;
@@ -1773,7 +1773,7 @@
   background: black;
 }
 
-/* line 87, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 87, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-vertical .thumb-bottom {
   -webkit-border-bottom-left-radius: 4px;
   -webkit-border-bottom-right-radius: 4px;
@@ -1785,44 +1785,44 @@
   background: black;
 }
 
-/* line 103, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 103, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .track {
   background: none;
   display: none;
 }
 
-/* line 110, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 110, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .cap,
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .endcap {
   background: none;
   display: none;
 }
 
-/* line 116, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 116, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .button-top {
   background: none;
   display: none;
 }
 
-/* line 121, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 121, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .button-bottom {
   background: none;
   display: none;
 }
 
-/* line 127, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 127, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .button-top:active {
   background: none;
   display: none;
 }
 
-/* line 132, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 132, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .button-bottom:active {
   background: none;
   display: none;
 }
 
-/* line 138, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 138, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .thumb {
   position: absolute;
   opacity: 0.5;
@@ -1832,7 +1832,7 @@
   overflow: hidden;
 }
 
-/* line 149, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 149, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .thumb-top {
   -webkit-border-top-left-radius: 4px;
   -webkit-border-bottom-left-radius: 4px;
@@ -1844,7 +1844,7 @@
   background: black;
 }
 
-/* line 160, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 160, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .thumb-clip {
   position: absolute;
   overflow: hidden;
@@ -1854,7 +1854,7 @@
   top: 5px;
 }
 
-/* line 169, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 169, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .thumb-inner {
   -webkit-transform: translate3d(0px, 0px, 0px);
   position: absolute;
@@ -1864,7 +1864,7 @@
   width: 1034px;
 }
 
-/* line 178, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 178, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .thumb-center {
   position: absolute;
   height: 5px;
@@ -1874,7 +1874,7 @@
   background: black;
 }
 
-/* line 187, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
+/* line 187, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/touch-scroller.css.scss */
 .sc-theme .sc-view.sc-touch-scroller-view.sc-horizontal .thumb-bottom {
   -webkit-border-top-right-radius: 4px;
   -webkit-border-bottom-right-radius: 4px;
@@ -1886,7 +1886,7 @@
   background: black;
 }
 
-/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/separator.css.scss */
+/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/separator.css.scss */
 .sc-separator-view.sc-layout-horizontal span {
   position: absolute;
   top: 50%;
@@ -1897,7 +1897,7 @@
   right: 0;
 }
 
-/* line 12, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/separator.css.scss */
+/* line 12, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/separator.css.scss */
 .sc-separator-view.sc-layout-vertical span {
   position: absolute;
   left: 50%;
@@ -1909,35 +1909,35 @@
 }
 
 /* Common SC.RadioView support */
-/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/radio.css.scss */
+/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/radio.css.scss */
 .sc-radio-view.sc-layout-vertical .sc-radio-button {
   display: block;
 }
 
-/* line 8, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/radio.css.scss */
+/* line 8, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/radio.css.scss */
 .sc-radio-view.sc-layout-horizontal .sc-radio-button {
   display: inline-block;
   -moz-display: inline-block;
 }
 
-/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-button-view.sc-menu-item {
   background-color: #ffffff none repeat scroll 0 0;
   border: none;
 }
 
-/* line 7, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 7, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-button-view.sc-menu-item.sc-small-size a {
   line-height: 11px;
   font-size: 11px;
 }
 
-/* line 12, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 12, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item.sc-small-size a {
   line-height: 11px;
 }
 
-/* line 16, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 16, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item a {
   position: absolute;
   display: block;
@@ -1952,25 +1952,25 @@
   outline: none;
 }
 
-/* line 30, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 30, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item.disabled a {
   color: #A0A0A0;
 }
 
-/* line 34, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 34, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item.disabled {
   border: none;
   color: #A0A0A0;
 }
 
-/* line 39, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 39, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item span.separator {
   display: block;
   height: 1px;
   border-bottom: 1px #cccccc solid;
 }
 
-/* line 45, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 45, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item img {
   left: 24px;
   top: 3px;
@@ -1978,7 +1978,7 @@
   position: absolute;
 }
 
-/* line 53, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 53, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item a span.shortcut {
   position: absolute;
   right: 5px;
@@ -1987,13 +1987,13 @@
   font-size: 12px;
 }
 
-/* line 61, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 61, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item.disabled a:hover {
   background-color: transparent;
   color: #A0A0A0;
 }
 
-/* line 67, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 67, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item div.checkbox {
   position: absolute;
   display: block;
@@ -2005,15 +2005,15 @@
   -moz-border-radius: 2px;
 }
 
-/* line 79, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 79, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item.disabled div.checkbox,
 .sc-menu-item div.checkbox.inactive {
   background-image: url(data:image/gif;base64,R0lGODlhAQABAJAAAP///wAAACH5BAUQAAAALAAAAAABAAEAAAICBAEAOw==) top left no-repeat;
-  *background-image: url("/static/sproutcore/foundation/en/current/source/blank.gif?1303689270") top left no-repeat;
+  *background-image: url("/static/sproutcore/foundation/en/current/source/blank.gif?1303700680") top left no-repeat;
   /* IE < 8 */
 }
 
-/* line 84, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 84, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item span.value {
   position: absolute;
   top: 0px;
@@ -2025,46 +2025,46 @@
   margin-left: 25px;
 }
 
-/* line 95, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 95, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item a.has-icon span.value {
   margin-left: 44px;
 }
 
-/* line 99, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
+/* line 99, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu_item_view.css.scss */
 .sc-menu-item a.shortcutkey span.value {
   right: 55px;
 }
 
-/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
+/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
 .sc-alert {
   background: white;
 }
 
-/* line 6, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
+/* line 6, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
 .sc-pane.sc-panel.sc-alert > div > .sc-view {
   overflow: visible;
 }
 
-/* line 10, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
+/* line 10, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
 .sc-alert .info {
   position: relative;
   min-height: 48px;
   padding: 20px 12px 58px 74px;
 }
 
-/* line 16, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
+/* line 16, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
 .sc-alert .info.plain {
   padding: 20px 12px 58px 16px;
 }
 
-/* line 20, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
+/* line 20, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
 .sc-alert .info img.icon {
   position: absolute;
   left: 12px;
   top: 14px;
 }
 
-/* line 26, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
+/* line 26, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
 .sc-alert .info .header {
   background-color: transparent;
   color: black;
@@ -2075,7 +2075,7 @@
   font-family: inherit;
 }
 
-/* line 36, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
+/* line 36, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
 .sc-alert .info p.description {
   padding: 0;
   margin: 6px 0px;
@@ -2083,7 +2083,7 @@
   margin-right: 20px;
 }
 
-/* line 43, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
+/* line 43, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
 .sc-alert .info p.caption {
   padding: 0;
   margin: 6px 0px;
@@ -2091,7 +2091,7 @@
   margin-right: 20px;
 }
 
-/* line 50, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
+/* line 50, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/alert.css.scss */
 .sc-alert .info .separator {
   position: absolute;
   width: 100%;
@@ -2102,23 +2102,23 @@
 }
 
 /* SC.ToolbarView */
-/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/toolbar.css.scss */
+/* line 4, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/toolbar.css.scss */
 .sc-toolbar-view {
   background-color: #ddd;
 }
 
-/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view {
   display: block;
   white-space: nowrap;
 }
 
-/* line 7, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 7, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segment-view:active, .sc-segment-view:focus {
   outline: none;
 }
 
-/* line 11, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 11, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segment-view img.icon {
   position: relative;
   vertical-align: middle;
@@ -2128,7 +2128,7 @@
   width: 16px;
 }
 
-/* line 22, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 22, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view {
   position: relative;
   display: inline-block;
@@ -2142,117 +2142,117 @@
   text-align: center;
 }
 
-/* line 35, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 35, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-button-inner {
   display: block;
   min-width: 20px;
   min-height: 22px;
 }
 
-/* line 41, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 41, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-first-segment {
   padding-left: 10px;
 }
 
-/* line 46, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 46, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-first-segment .sc-button-inner {
   padding-right: 10px;
 }
 
-/* line 49, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 49, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-middle-segment .sc-button-inner {
   padding-left: 10px;
   padding-right: 10px;
 }
 
-/* line 54, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 54, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-last-segment .sc-button-inner {
   padding-left: 10px;
 }
 
-/* line 58, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 58, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-last-segment {
   padding-right: 10px;
   border: none;
 }
 
-/* line 69, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 69, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view .sc-button-inner {
   background: #DDDDDD;
 }
 
-/* line 73, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 73, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-last-segment {
   background: #DDDDDD;
 }
 
-/* line 77, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 77, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-first-segment {
   background: #DDDDDD;
 }
 
-/* line 84, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 84, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.active .sc-button-inner,
 .sc-segmented-view .sc-segment-view.sel .sc-button-inner {
   background: #999999;
   text-shadow: #909090 0px 1px 0px;
 }
 
-/* line 90, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 90, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-last-segment.sel,
 .sc-segmented-view .sc-segment-view.sc-last-segment.active {
   background: #999999;
 }
 
-/* line 95, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 95, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-first-segment.sel,
 .sc-segmented-view .sc-segment-view.sc-first-segment.active {
   background: #999999;
 }
 
-/* line 102, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 102, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.disabled .sc-button-inner,
 .sc-segmented-view.disabled .sc-segment-view .sc-button-inner {
   background: #FFFFFF;
   color: #999;
 }
 
-/* line 108, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 108, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-last-segment.disabled,
 .sc-segmented-view.disabled .sc-segment-view.sc-last-segment {
   background: #FFFFFF;
 }
 
-/* line 113, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 113, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-first-segment.disabled,
 .sc-segmented-view.disabled .sc-segment-view.sc-first-segment {
   background: #FFFFFF;
 }
 
-/* line 118, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 118, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sel .sc-button-inner.disabled,
 .sc-segmented-view.disabled .sc-segment-view.sel .sc-button-inner {
   background: #FFFFFF;
 }
 
-/* line 123, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 123, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-last-segment.sel.disabled,
 .sc-segmented-view.disabled .sc-segment-view.sc-last-segment.sel {
   background: #FFFFFF;
 }
 
-/* line 128, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
+/* line 128, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/segmented.css.scss */
 .sc-segmented-view .sc-segment-view.sc-first-segment.sel.disabled,
 .sc-segmented-view.disabled .sc-segment-view.sc-first-segment.sel {
   background: #FFFFFF;
 }
 
-/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu.css.scss */
+/* line 2, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu.css.scss */
 .sc-menu-scroller-view {
   background: #EAEAEA;
 }
 
-/* line 6, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu.css.scss */
+/* line 6, ././tmp/chance/Users/ceubanks/personal_sproutcore/Tablet/tmp/debug/staging/static/sproutcore/desktop/en/current/menu.css.scss */
 .sc-menu-scroll-view .sc-menu-scroller-view.sc-vertical {
   overflow-y: hidden;
   text-align: center;
