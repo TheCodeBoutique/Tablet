@@ -1,0 +1,3 @@
+config :touchpad, :css_theme => 'ace.touchpad'
+
+

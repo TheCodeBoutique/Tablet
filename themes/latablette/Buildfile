@@ -1,3 +1,0 @@
-config :latablette, :css_theme => 'ace.latablette'
-
-

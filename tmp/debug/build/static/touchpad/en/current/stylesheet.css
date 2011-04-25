@@ -1,0 +1,49 @@
+                        /* ==========================================================================
+*  Project:   Touchpad Theme Styles
+*  Copyright: ©2011 My Company, Inc.
+*  ==========================================================================
+*/
+/* 
+  Place any styles you want to define in this file.  You can also break your
+  styles into multiple files.  Just add them to your resources or .lrpoj
+  directories to be included in the build.
+*/
+/* line 15, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
+.base-view {
+  background-image: url("/static/touchpad/en/current/source/resources/images/main-bg.png?1285473869");
+}
+
+/* line 19, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
+.left-view {
+  z-index: 20;
+  max-width: 250px;
+  -webkit-box-shadow: 0px 0px 2px black;
+  -moz-box-shadow: 0px 0px 2px black;
+  opacity: 0.0;
+  -moz-opacity: 0.0;
+  filter: alpha(opacity=0);
+}
+
+/* line 27, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
+.right-view {
+  z-index: 1;
+  -webkit-box-shadow: 0px 0px 2px black;
+  -moz-box-shadow: 0px 0px 2px black;
+  opacity: 0.0;
+  -moz-opacity: 0.0;
+  filter: alpha(opacity=0);
+}
+
+/* line 34, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
+.line {
+  background-image: url("/static/touchpad/en/current/source/resources/images/line.png?1303618237");
+}
+
+/* line 38, ././tmp/chance/Users/ceubanks/personal_sproutcore/tablet/tmp/debug/staging/static/touchpad/en/current/resources/theme_styles.css.scss */
+.toolbar {
+  background-image: url("/static/touchpad/en/current/source/resources/images/toolbar.png?1303627133");
+  z-index: 1;
+  -webkit-box-shadow: 0px 0px 5px black;
+  -moz-box-shadow: 0px 0px 5px black;
+}
+

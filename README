@@ -3,5 +3,6 @@ Project:   Tablet
 Copyright: ©2011 My Company, Inc.
 =============================================================================
 
-TODO: Describe Your Project
+
+Tablet is a template optimized for desktop and tablet devices.  The benefits of using this template is its ease to customize the UI and based on a screens resolution orientation detection is implemented.
 
